@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236168523916",
+    "project_id": "finalloginapp-ba4fa",
+    "storage_bucket": "finalloginapp-ba4fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236168523916:android:df645b0ff4cbef98a04ba9",
+        "android_client_info": {
+          "package_name": "com.gokulsundar4545.finalloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236168523916-qbua5q43mk757gh9il90e8ngjel88bc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gokulsundar4545.finalloginapp",
+            "certificate_hash": "953f8b5c023a5e920c12b84ff9dfe209de4c85fe"
+          }
+        },
+        {
+          "client_id": "236168523916-73abs17iv4iqff9e7j2jfs9ru2ofi2qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGSmZvrIrH23j9YsFZB_t0u-2zs7KOFXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236168523916-73abs17iv4iqff9e7j2jfs9ru2ofi2qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
